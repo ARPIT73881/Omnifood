@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://omnifood-getarpit.netlify.app/" target="_blank"><img src="https://i.ibb.co/xjbDwqN/4.png" alt="Main-Cover" border="0"></a>
+   <a href="https://omnifood-getarpit.netlify.app/" target="_blank"><img src="https://github.com/user-attachments/assets/61c0ee83-2836-4e41-b33a-c04c76608a07" alt="Main-Cover" border="0"></a>
   <br />
 
 # [Omnifood](https://omnifood-getarpit.netlify.app/)
